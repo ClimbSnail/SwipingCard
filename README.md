@@ -19,7 +19,7 @@
 > 这款刷卡器体积小巧以及充满电后连续使用达50天以上。
 
 #### 预览图
-![SwipingCard PCB_3D](https://github.com/ClimbSnail/SwipingCard/blob/master/Figure/PCB_3D.png)
+![SwipingCard PCB 3D](https://github.com/ClimbSnail/SwipingCard/blob/master/Figure/PCB_3D.png)
 
 
 
