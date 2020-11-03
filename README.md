@@ -1,6 +1,8 @@
 #### 用途说明
 
-![实物图](./Figure/IMG_20171214_093236_mini.jpg)
+![](https://gitee.com/ClimbSnailQ/Project_Image/raw/master/OtherProject/SwipingCard_mini.jpg)
+
+![实物图](./Figure/SwipingCard_mini.jpg)
 
 此为校园一卡通刷卡器，用于内置FR射频电路的校园SIM卡。
 
@@ -22,9 +24,14 @@
 > 这款刷卡器体积小巧以及充满电后连续使用达50天以上。
 
 #### 预览图
-![PCB_3D](./Figure/PCB_3D.png)
 
-![实物图](./Figure/1046349715_mini.jpg)
+![](https://gitee.com/ClimbSnailQ/Project_Image/raw/master/OtherProject/SwipingCard_PCB_3D.png)
+
+![PCB_3D](./Figure/SwipingCard_PCB_3D.png)
+
+![](https://gitee.com/ClimbSnailQ/Project_Image/raw/master/OtherProject/SwipingCard_mini2.jpg)
+
+![实物图](./Figure/SwipingCard_mini2.jpg)
 
 #### 设计方案
 1. 使用已淘汰价格低廉的M590E模块。
